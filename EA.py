@@ -99,3 +99,4 @@ print(child2)
 
 
 # def truncation(fitness_table):
+
