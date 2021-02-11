@@ -1,8 +1,3 @@
-# sir wasi, zain and I had collaborated with eachother
-# and decided on how to go about it
-# but each of us have coded it individually.
-# i was not able to print the graph properly
-
 # on a side note:
 # this was an interesting implementation i came accross while browsing the internet.
 # the whole code has just been written in 10 lines.
